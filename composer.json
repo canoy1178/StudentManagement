@@ -1,0 +1,16 @@
+{
+    "name": "canoy/student-management",
+    "description": "Basic Student Descriuption",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Canoy\\StudentManagement\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "John Paul Canoy"
+        }
+    ],
+    "require": {}
+}
